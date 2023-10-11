@@ -1,0 +1,409 @@
+.Ultra-2-container{
+  position: absolute;
+  top: 3090px;
+  left: 12px;
+  height: 580px;
+  width: 49%;
+  background-color:  #fbfafa;
+  cursor: pointer;
+}
+
+.Apple-Watch-logo{
+  position: absolute;
+  top: 54px;
+  left: 225px;
+  height: 30px;
+  width: 26px;
+}
+
+.Ultra-2-header{
+  color: black;
+  font-size: 30px;
+  font-weight: bold; 
+  padding-top: 55px;
+  letter-spacing: 1px;
+}
+
+.Apple-Ultra-2 {
+  position: absolute;
+  top: 88px;
+  left: 44%;
+  color: rgb(255, 119, 70);
+  line-height: 27px;  
+  font-size: 13px;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
+.subtitle-Ultra-2 {
+  position: absolute;
+  top: 125px;
+  left: 35%;
+  font-size: 20px;
+}
+
+.Learn-more-Ultra-2 {
+  position: absolute;
+  left: 28%;
+  top: 190px;
+  font-size: 18px;
+  color: #06c;
+}
+
+.Order-Now-Ultra-2 {
+  position: absolute;
+  left: 54%;
+  top: 190px;
+  font-size: 18px;
+  color: #06c;
+}
+
+.Apple-Ultra-2-img {
+  position: absolute;
+  top: 250px;
+  left: -1%;
+  height: 320px;
+  width: 101%;
+}
+
+.Learn-more-Ultra-2:hover,
+.Order-Now-Ultra-2:hover {
+  text-decoration: underline;
+}
+
+.Carbon-neutral-container {
+  position: absolute;
+  top: 3090px;
+  right: 10px;
+  height: 580px;
+  width: 48%;
+  background-color:  #fbfafa;
+  cursor: pointer;
+}
+
+.Carbon-Neutral {
+  color: black;
+  font-size: 38px;
+  padding-top: 55px;
+  padding-left: 10px;
+}
+
+.Carbon-Neutral-subtitle {
+  position: absolute;
+  top: 105px;
+  left: 34%;
+  font-size: 20px; 
+  line-height: 30px;
+}
+
+.Recycle-logo {
+  position: absolute;
+  top: 260px;
+  left: 20%;
+  height: 320px;
+  width: 65%;
+}
+
+.Apple-recycle-logo {
+  position: absolute;
+  top: 44px;
+  left: 105px;
+  height: 11%;
+  width: 12%; 
+}
+
+
+
+
+
+
+
+/* Apple Watch Ultra 2 */
+
+
+@media screen and (min-width: 480px) and (max-width: 769px) { 
+  /* Mobile styles */
+  .Ultra-2-container{
+    height: 430px;
+    width: 100%;
+    text-align: center;
+    margin-top: -230px;
+  }
+
+  
+   .Apple-Watch-logo{
+    font-size: 25px; /* Adjust the font size as needed */
+    margin-top: -4px;
+    margin-left: -70px;
+    font-weight: bold; 
+    display: block;
+    width: auto;
+  }
+
+  .Ultra-2-header {
+    position: absolute;
+    top: -3px;
+    left: 38%;
+    height: 25px;
+    width: 26px;
+  }
+
+  .Apple-Watch-logo {
+    height: auto;
+    width: auto;
+    max-width: 100%;
+    width: 25px;
+    padding-left: 4px;
+  }
+
+  .Apple-Ultra-2{
+    font-size: 10px;
+    padding-top: -1px;  
+    padding-left: -5px;
+  }
+  
+  .subtitle-Ultra-2  {
+    font-size: 19px; /* Adjust the font size as needed */
+    margin-left: -20px;
+    margin-top: 2px;
+    letter-spacing: 0.02rem;
+  }
+  
+  .Apple-Watch-Series-9 {
+    font-size: 15px;
+    color: #06c;
+    margin-left: -120px;
+    margin-top: 24px;
+  }
+
+  .Buy-Series-9 {
+    font-size: 15px;
+    color: #06c;
+    margin-left: 150px;
+    margin-top: -17px;
+  }
+  
+  .Apple-Ultra-2-img{
+    margin-left: -10px;
+    margin-top: 2px;
+    height: auto;
+    min-width: 50%;
+    height: 300px;
+  }
+  }
+
+
+  @media screen and (min-width: 770px) and (max-width: 1098px) { 
+    /* Medium-sized screens */
+    .Ultra-2-container{
+      height: 320px;
+      width: 47%;
+      text-align: center;
+      margin-top: -2px;
+      margin-left: 10px;
+    }
+  
+    
+     .Apple-Watch-logo{
+      font-size: 25px; /* Adjust the font size as needed */
+      margin-top: -4px;
+      margin-left: -123px;
+      font-weight: bold; 
+      display: block;
+      width: auto;
+    }
+  
+    .Ultra-2-header {
+      position: absolute;
+      top: -3px;
+      left: 38%;
+      height: 25px;
+      width: 26px;
+    }
+
+    .Apple-Ultra-2 {
+      position: absolute;
+      top: 88px;
+      left: 44%;
+      color: rgb(255, 119, 70);
+      line-height: 27px;  
+      font-size: 13px;
+      font-weight: bold;
+      letter-spacing: 2px;
+    }
+
+    
+  
+    .Apple-Watch-logo {
+      height: auto;
+      width: auto;
+      max-width: 100%;
+      width: 25px;
+      padding-left: 4px;
+    }
+  
+    
+    .subtitle-Ultra-2  {
+      font-size: 18px; /* Adjust the font size as needed */
+      margin-left: -20px;
+      margin-top: 2px;
+      letter-spacing: 0.02rem;
+    }
+    
+    .Learn-more-Ultra-2 {
+      font-size: 16px;
+      color: #06c;
+      margin-left: -6px;
+      margin-top: -1px;
+    }
+  
+    .Order-Now-Ultra-2 {
+      font-size: 16px;
+      color: #06c;
+      margin-left: 12px;
+      margin-top: -1px;
+    }
+    
+    .Apple-Ultra-2-img{
+      margin-left: 10px;
+      margin-top: 2px;
+      height: auto;
+      max-width: 100%;
+      height: 200px;
+    }
+    }
+    
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  /* Apple Watch Carbon neutral */
+
+
+@media screen and (min-width: 480px) and (max-width: 769px) { 
+  /* Mobile styles */
+  .Carbon-neutral-container{
+    height: 470px;
+    min-width: 100%;
+    text-align: center;
+    margin-top: 340px;
+    text-align: center;
+  }
+
+
+  .Ultra-2-header {
+    position: absolute;
+    top: -3px;
+    left: 38%;
+    height: 25px;
+    width: 26px;
+  }
+
+  
+  
+  .Carbon-Neutral-subtitle  {
+    font-size: 19px; /* Adjust the font size as needed */
+    margin-left: -15px;
+    margin-top: 2px;
+    letter-spacing: 0.02rem;
+    
+  }
+  
+  .Learn-more-Ultra-2 {
+    font-size: 15px;
+    color: #06c;
+    margin-left: -15px;
+    margin-top: -1px;
+  }
+
+  .Order-Now-Ultra-2 {
+    font-size: 15px;
+    color: #06c;
+    margin-left: 20px;
+    margin-top: 0px;
+  }
+  
+  .Recycle-logo{
+    margin-left: 25px;
+    margin-top: -12px;
+    height: auto;
+    width: 50%;
+    height: 220px;
+  }
+
+  }
+  
+
+  @media screen and (min-width: 770px) and (max-width: 1098px) { 
+    /* Medium-sized screens */
+    .Carbon-neutral-container{
+      height: 450px;
+      width: 47%;
+      text-align: center;
+      margin-top: -2px;
+      margin-left: 10px;
+    }
+  
+    .Carbon-Neutral-subtitle{
+      position: absolute;
+      top: 105px;
+      left: 30%;
+      font-size: 18px; 
+      line-height: 30px;
+    }
+  
+    
+    
+    .Carbon-Neutral-subtitle  {
+      font-size: 19px; /* Adjust the font size as needed */
+      margin-left: -20px;
+      margin-top: 2px;
+      letter-spacing: 0.02rem;
+    }
+    
+    .Learn-more-Ultra-2 {
+      font-size: 16px;
+      color: #06c;
+      margin-left: -6px;
+      margin-top: -1px;
+    }
+  
+    .Order-Now-Ultra-2 {
+      font-size: 16px;
+      color: #06c;
+      margin-left: 12px;
+      margin-top: -1px;
+    }
+    
+    .Recycle-logo{
+      margin-left: 10px;
+      margin-top: -15px;
+      height: auto;
+      max-width: 100%;
+      height: 200px;
+    }
+    }
+
+
+    @keyframes fadeIn {
+      from{
+        opacity: 0;
+      }
+      to{
+        opacity: 8;
+      }
+    } 

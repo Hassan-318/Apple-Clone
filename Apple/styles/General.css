@@ -1,0 +1,20 @@
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+body {
+  font-family: Roboto, Arial;
+  height: 3000px;
+  overflow-x: hidden;
+}
+
+
+ @keyframes fadeIn {
+  from{
+    opacity: 0;
+  }
+  to{
+    opacity: 8;
+  }
+} 

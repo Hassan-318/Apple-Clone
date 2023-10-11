@@ -1,0 +1,242 @@
+.Apple-SE-container {
+  position: absolute;
+  top: 3680px;
+  left: 12px;
+  height: 580px;
+  width: 49%;
+  background-color:  #fbfafa;
+  cursor: pointer;
+}
+
+.SE-header {
+  color: black;
+  font-size: 30px;
+  font-weight: bold; 
+  padding-top: 55px;
+  letter-spacing: 1px;
+}
+
+.Apple-Watch-logo {
+  margin-left: -5px;
+}
+
+.Apple-SE {
+  position: absolute;
+  top: 84px;
+  left: 47%;
+  color: rgb(169, 26, 26);
+  line-height: 27px;  
+  font-size: 13px; 
+  letter-spacing: 1px;
+  font-weight: bold;
+}
+
+.subtitle-SE {
+  position: absolute;
+  top: 120px;
+  left: 35%;
+  font-size: 20px;
+}
+
+.Learn-more-SE {
+  position: absolute;
+  left: 28%;
+  top: 190px;
+  font-size: 18px;
+  color: #06c;
+}
+
+.Order-Now-SE {
+  position: absolute;
+  left: 54%;
+  top: 190px;
+  font-size: 18px;
+  color: #06c;
+}
+
+.Learn-more-SE:hover,
+.Order-Now-SE:hover {
+  text-decoration: underline;
+}
+
+.Apple-SE-img {
+  position: absolute;
+  top: 230px;
+  left: 24%;
+  height: 330px;
+  width: 50%;
+}
+
+
+
+
+
+
+@media screen and (min-width: 480px) and (max-width: 769px) { 
+  /* Mobile styles */
+  .Apple-SE-container  {
+    height: 430px;
+    width: 100%;
+    text-align: center;
+    margin-top: 230px;
+  }
+
+  .SE-header {
+    color: black;
+    font-size: 27px;
+    font-weight: bold; 
+    padding-top: 55px;
+    letter-spacing: 1px;
+  }
+
+  .Apple-Watch-logo {
+    margin-left: -38px;
+  }
+
+  .Apple-SE {
+    position: absolute;
+    top: 84px;
+    left: 45%;
+    color: rgb(169, 26, 26);
+    line-height: 27px;  
+    font-size: 11px; 
+    letter-spacing: 1px;
+    font-weight: bold;
+  }
+  
+  .subtitle-SE {
+    position: absolute;
+    top: 120px;
+    left: 31%;
+    font-size: 18px;
+  }
+
+  .Learn-more-SE {
+    position: absolute;
+    left: 28%;
+    top: 170px;
+    font-size: 15px;
+    color: #06c;
+  }
+  
+  .Order-Now-SE {
+    position: absolute;
+    left: 54%;
+    top: 170px;
+    font-size: 15px;
+    color: #06c;
+  }
+  
+  
+  .Apple-SE-img {
+    position: absolute;
+    top: 200px;
+    left: 26%;
+    height: 220px;
+    width: 50%;
+  }
+}
+
+
+
+@media screen and (min-width: 770px) and (max-width: 1098px) { 
+  /* Medium-sized screens */
+  .Apple-SE-container{
+    height: 480px;
+    width: 48%;
+    text-align: center;
+    margin-top: -130px;
+    margin-left: 10px;
+  }
+
+  
+   .Apple-Watch-logo{
+    font-size: 25px; /* Adjust the font size as needed */
+    margin-top: -4px;
+    margin-left: -113px;
+    font-weight: bold; 
+    display: block;
+    width: auto;
+  }
+
+  .SE-header {
+    position: absolute;
+    top: -3px;
+    left: 38%;
+    height: 25px;
+    width: 26px;
+  }
+
+  .Apple-SE {
+    position: absolute;
+    top: 88px;
+    left: 49%;
+    line-height: 27px;  
+    font-size: 13px;
+    font-weight: bold;
+    letter-spacing: 2px;
+  }
+
+  
+
+  .Apple-Watch-logo {
+    height: auto;
+    width: auto;
+    max-width: 100%;
+    width: 25px;
+    padding-left: 4px;
+  }
+
+  
+  .subtitle-SE  {
+    font-size: 18px; /* Adjust the font size as needed */
+    margin-left: -20px;
+    margin-top: 2px;
+    letter-spacing: 0.02rem;
+  }
+  
+  .Learn-more-Ultra-2 {
+    font-size: 16px;
+    color: #06c;
+    margin-left: -6px;
+    margin-top: -1px;
+  }
+
+  .Learn-more-SE {
+    font-size: 16px;
+      color: #06c;
+      margin-left: -6px;
+      margin-top: -1px;
+  }
+  
+  .Order-Now-SE {
+    font-size: 16px;
+      color: #06c;
+      margin-left: 12px;
+      margin-top: -1px;
+  }
+
+  .Learn-more-SE:hover,
+  .Order-Now-SE:hover {
+    text-decoration: underline;
+  }
+
+  .Apple-SE-img {
+    position: absolute;
+    top: 230px;
+    left: 24%;
+    height: 250px;
+    width: 50%;
+  }
+  }
+  
+
+
+  @keyframes fadeIn {
+    from{
+      opacity: 0;
+    }
+    to{
+      opacity: 5;
+    }
+  } 

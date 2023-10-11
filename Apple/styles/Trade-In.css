@@ -1,0 +1,177 @@
+.Apple-Trade-In-container {
+  position: absolute;
+  top: 3680px;
+  right: 10px;
+  height: 580px;
+  width: 48%;
+  background-color:  #fbfafa;
+  cursor: pointer;
+}
+
+.Trade-In-header {
+  color: black;
+  font-size: 35px;
+  font-weight: bold; 
+  padding-top: 55px;
+  padding-right: -150px;
+}
+
+.Apple-Trade-In {
+  position: absolute;
+  top: 55px;
+  left: 200px;
+  height: 30px;
+  width: 26px;
+}
+
+.subtitle-Tap-In {
+  position: absolute;
+  top: 105px;
+  left: 25%;
+  font-size: 22px;
+  font-weight: lighter;
+  text-align: center;
+}
+
+.Trade-In-link {
+  position: absolute;
+  left: 28%;
+  top: 180px;
+  font-size: 19px;
+  color: rgb(0, 102, 204)
+}
+
+.Trade-In-link:hover {
+  text-decoration: underline;
+}
+
+.Trade-In-img {
+  position: absolute;
+  top: 250px;
+  left: -1%;
+  height: 330px;
+  width: 100%;
+}
+
+
+
+
+
+@media screen and (min-width: 480px) and (max-width: 769px) { 
+  /* Mobile styles */
+  .Apple-Trade-In-container {
+    height: 430px;
+    width: 100%;
+    text-align: center;
+    margin-top: 670px;
+  }
+
+  .Trade-In-header {
+    color: black;
+    font-size: 30px; 
+    padding-top: 55px;
+    padding-right: 10px;
+  }
+
+
+  .Apple-Trade-In {
+    position: absolute;
+    top: 53px;
+    left: 180px;
+    height: 30px;
+    width: 26px;
+  }
+
+  .subtitle-Tap-In {
+    position: absolute;
+    top: 105px;
+    left: 24%;
+    font-size: 19px;
+    font-weight: lighter;
+  }
+
+
+  .Trade-In-img {
+    position: absolute;
+    top: 250px;
+    height: 300px;
+    width: 100%;
+  }
+}
+
+
+
+@media screen and (min-width: 770px) and (max-width: 1098px) { 
+  /* Medium-sized screens */
+  .Apple-Trade-In-container{
+    height: 400px;
+    width: 47%;
+    text-align: center;
+    margin-top: -130px;
+    margin-left: 10px;
+  }
+
+  .Trade-In-header {
+    color: black;
+    font-size: 35px;
+    font-weight: bold; 
+    padding-top: 55px;
+    margin-left: 80px;
+  }
+
+  .Apple-SE {
+    position: absolute;
+    top: 88px;
+    left: 49%;
+    line-height: 27px;  
+    font-size: 13px;
+    font-weight: bold;
+    letter-spacing: 2px;
+  }
+
+  .Apple-Trade-In {
+    position: absolute;
+    top: 55px;
+    left: 110px;
+    height: 30px;
+    width: 26px;
+  }
+
+  
+  .subtitle-Tap-In  {
+    font-size: 19px; /* Adjust the font size as needed */
+    margin-left: -10px;
+    margin-top: 2px;
+    letter-spacing: 0.02rem;
+  }
+  
+  
+  .Learn-more-SE:hover,
+  .Order-Now-SE:hover {
+    text-decoration: underline;
+  }
+
+  .Trade-In-link {
+    position: absolute;
+    left: 20%;
+    top: 180px;
+    font-size: 18px;
+    color: rgb(0, 102, 204)
+  }
+
+  .Trade-In-img {
+    position: absolute;
+    top: 250px;
+    height: 228px;
+    width: 100%;
+  }
+  }
+
+  @keyframes fadeIn {
+    from{
+      opacity: 0;
+    }
+    to{
+      opacity: 5;
+    }
+  } 

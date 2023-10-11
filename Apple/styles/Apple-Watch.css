@@ -1,0 +1,232 @@
+p {
+  font-family: Roboto,Arial;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  cursor: pointer;
+}
+
+.Series-9-container {
+  position: absolute;
+  top: 2490px;
+  right: -25px;
+  height: 580px;
+  width: 120%;
+  background-color: black;
+}
+
+
+
+.Apple-watch-title {
+  color: white;
+  padding-top: 50px;
+  padding-left: 200px;
+  font-size: 45px;
+  font-weight: bold; 
+}
+
+.Apple-Watch-Series9 {
+  position: absolute;
+  top: 48px;
+  left: 48%;
+  height: 45px;
+  width: 46px;
+}
+
+.Apple-series {
+  color: rgb(227, 7, 7);
+  padding-top: 1px;
+  padding-left: 190px;
+  font-size: 18px;
+  letter-spacing: 2px;
+}
+
+.subtitle-Series-9 {
+  padding-top: 12px;
+  padding-left: 190px;
+  color: white;
+  font-size: 28px;
+  text-align: center;
+}
+
+.Series-9 {
+  position: absolute;
+  top: 261px;
+  left: 410px;
+  width: 58%;
+  height: 55%;
+  cursor: pointer;
+}
+
+.Apple-Watch-Series-9:hover,
+.Buy-Series-9:hover {
+  text-decoration: underline;
+}
+
+
+
+
+
+
+
+/* Apple Watch Series 9 */
+
+
+@media screen and (min-width: 480px) and (max-width: 769px) { 
+  /* Mobile styles */
+  .Series-9-container {
+    height: 500px;
+    width: 110%;
+    text-align: center;
+    margin-top: -245px;
+  }
+  
+  .Apple-watch-title{
+    font-size: 25px; /* Adjust the font size as needed */
+    margin-top: 5px;
+    margin-left: -190px;
+    font-weight: bold; 
+    display: block;
+  }
+
+  .Apple-Watch-Series9 {
+    position: absolute;
+    top: 54px;
+    left: 38%;
+    height: 25px;
+    width: 26px;
+  }
+
+  .Apple-series{
+    font-size: 10px;
+    padding-top: 2px;
+    padding-left: 2px;
+  }
+  
+  .subtitle-Series-9  {
+    font-size: 19px; /* Adjust the font size as needed */
+    margin-left: -180px;
+    margin-top: 2px;
+    letter-spacing: 0.02rem;
+  }
+  
+  .Apple-Watch-Series-9 {
+    font-size: 16px;
+    color: #2997ff;
+    margin-left: -120px;
+    margin-top: 25px;
+  }
+
+  .Buy-Series-9 {
+    font-size: 17px;
+    color: #2997ff;
+    margin-left: 150px;
+    margin-top: -19px;
+  }
+  
+  .Series-9{
+    margin-left: -490px;
+    margin-top: 42px;
+    height: auto;
+    min-width: 130%;
+    height: 300px;
+  }
+  }
+  
+  /* Medium-sized screens */
+  @media screen and (min-width: 770px) and (max-width: 1098px) {
+    .iPhone15-container {
+      width: 110%; /* Adjust the container width as needed */
+      text-align: center;
+      margin-top: -5px;
+    }
+    
+    .Apple-watch-title {
+      font-size: 36px; /* Adjust the font size as needed */
+      margin-left: -60px;
+      margin-top: 20px;
+    }
+
+    .Apple-Watch-Series9 {
+    position: absolute;
+    top: 69px;
+    left: 47%;
+    height: 34px;
+    width: 34px;
+    }
+    
+
+  .Apple-series{
+    font-size: 16px;
+    padding-top: 5px;
+    padding-left: 120px;
+    display: block;
+  }
+  
+  .subtitle-Series-9{
+      font-size: 23px; /* Adjust the font size as needed */
+      margin-left: -80px;
+      margin-top: -4px;
+      letter-spacing: 0.04rem;
+    }
+  
+    .Apple-Watch-Series-9{
+      font-size: 19px;
+      color: #2997ff;
+      margin-left: -20px;
+      margin-top: 17px;
+      text-align: center;
+    }
+
+    .Buy-Series-9{
+      font-size: 18px;
+      color: #2997ff;
+      margin-left: 250px;
+      margin-top: -20px;
+      text-align: center;
+    }
+  
+    .Series-9 {
+      margin-left: -240px;
+      margin-top: 10px;
+      width: 80%;
+      height: auto;
+      max-width: 100%;
+      height: 310px;
+    }
+
+
+  }
+  
+  /* Desktop-sized screens */
+  @media screen and (min-width: 1099px) {
+    .container {
+      width: 110%; /* Adjust the container width as needed */
+      text-align: center;
+    }
+    
+    .Mac-uni-title {
+      font-size: 55px; /* Adjust the font size as needed */
+    }
+    
+    .subtitle-iPhone-15 {
+      font-size: 23px; /* Adjust the font size as needed */
+    }
+
+    .Apple-Watch-Series-9{
+      font-size: 21px;
+      color:  #2997ff;
+      margin-left: 19px;
+      margin-top: 30px;
+    }
+
+    .Buy-Series-9{
+      font-size: 21px;
+      color:  #2997ff;
+      margin-left: 370px;
+      margin-top: -22px;
+      
+    }
+  }
+
+

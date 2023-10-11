@@ -1,0 +1,336 @@
+
+.Customer-service {
+  position: absolute;
+  top: 4300px;
+  background-color: #f5f5f7;
+  height: 550px;
+  width: 100%;
+  margin-left: -10px;
+}
+
+.Sub-header {
+  font-size: 11px;
+  font-weight: bold; 
+}
+
+.Shop-and-Learn,
+.Wallet {
+  margin-top: 40px;
+  margin-left: 80px;
+  color: #424245;
+  list-style: none;
+  line-height: 25px;
+  font-size: 11px;
+  cursor: pointer; 
+  letter-spacing: 1px;
+}
+
+.one:hover,
+.two:hover,
+.three:hover,
+.four:hover,
+.five:hover,
+.six:hover,
+.seven:hover,
+.eight:hover,
+.nine:hover,
+.ten:hover,
+.eleven:hover {
+  text-decoration: underline;
+}
+
+.Account {
+  position: absolute;
+  top: 30px;
+  left: 300px;
+  color: #424245;
+  list-style: none;
+  line-height: 25px;
+  font-size: 11px;
+  cursor: pointer; 
+  letter-spacing: 1px;
+}
+
+.Entertainment {
+  position: absolute;
+  top: 160px;
+  left: 300px;
+  color: #424245;
+  list-style: none;
+  line-height: 26px;
+  font-size: 11px;
+  cursor: pointer; 
+  letter-spacing: 1px;
+}
+
+.Apple-Store {
+  position: absolute;
+  top: 30px;
+  left: 500px;
+  color: #424245;
+  list-style: none;
+  line-height: 26px;
+  font-size: 11px;
+  cursor: pointer; 
+  letter-spacing: 1px;
+}
+
+.For-Business {
+  position: absolute;
+  top: 30px;
+  left: 700px;
+  color: #424245;
+  list-style: none;
+  line-height: 26px;
+  font-size: 11px;
+  cursor: pointer; 
+  letter-spacing: 1px;
+}
+
+.For-Education {
+  position: absolute;
+  top: 125px;
+  left: 700px;
+  color: #424245;
+  list-style: none;
+  line-height: 26px;
+  font-size: 11px;
+  cursor: pointer; 
+  letter-spacing: 1px;
+}
+
+.For-Healthcare{
+  position: absolute;
+  top: 250px;
+  left: 700px;
+  color: #424245;
+  list-style: none;
+  line-height: 26px;
+  font-size: 11px;
+  cursor: pointer; 
+  letter-spacing: 1px;
+}
+
+.For-Government {
+  position: absolute;
+  top: 370px;
+  left: 700px;
+  color: #424245;
+  list-style: none;
+  line-height: 26px;
+  font-size: 11px;
+  cursor: pointer; 
+  letter-spacing: 1px;
+}
+
+.Apple-Values {
+  position: absolute;
+  top: 30px;
+  right: 180px;
+  color: #424245;
+  list-style: none;
+  line-height: 26px;
+  font-size: 11px;
+  cursor: pointer; 
+  letter-spacing: 1px;
+}
+
+.About-Apple {
+  position:  absolute;
+  top: 260px;
+  right: 205px;
+  color: #424245;
+  list-style: none;
+  line-height: 26px;
+  font-size: 11px;
+  cursor: pointer; 
+  letter-spacing: 1px;
+}
+
+
+
+  
+
+
+
+@media screen and (min-width: 480px) and (max-width: 769px) { 
+  /* Mobile styles */
+  .Customer-service  {
+    height: 490px;
+    width: 100%;
+    text-align: center;
+    margin-top: 603px;
+  }
+
+  .Sub-header {
+    font-weight: lighter;
+    font-size: 12px;
+    cursor: pointer;
+  }
+
+
+  .Shop-and-Learn {
+    position: absolute;
+    left: -100px;
+    top: -12px;
+    text-decoration: underline;
+  }
+
+  .Wallet {
+    position: absolute;
+    left: -100px;
+    top: 30px;
+    text-decoration: underline;
+  }
+
+  .Account {
+    position: absolute;
+    left: -20px;
+    top: 100px;
+    text-decoration: underline;
+  }
+
+  .Entertainment {
+    position: absolute;
+    left: -20px;
+    top: 140px;
+    text-decoration: underline;
+  }
+
+  .Apple-Store {
+    position: absolute;
+    left: -20px;
+    top: 180px;
+    text-decoration: underline;
+  }
+
+  .For-Business {
+    position: absolute;
+    left: -20px;
+    top: 220px;
+    text-decoration: underline;
+  }
+
+  .For-Education {
+    position: absolute;
+    left: -20px;
+    top: 260px;
+    text-decoration: underline;
+  }
+
+  .For-Healthcare {
+    position: absolute;
+    left: -20px;
+    top: 300px;
+    text-decoration: underline;
+  }
+
+  .For-Government {
+    position: absolute;
+    left: -20px;
+    top: 340px;
+    text-decoration: underline;
+  }
+
+  .Apple-Values {
+    position: absolute;
+    left: -250px;
+    top: 380px;
+    text-decoration: underline;
+  }
+
+  .About-Apple {
+    position: absolute;
+    left: -230px;
+    top: 420px;
+    text-decoration: underline;
+  }
+
+
+  .one,
+  .two,
+  .three,
+  .four,
+  .five,
+  .six,
+  .seven,
+  .eight,
+  .nine,
+  .ten,
+  .eleven {
+    display: none;
+  }
+}
+
+
+@media screen and (min-width: 770px) and (max-width: 1098px) { 
+  /* Medium-sized screens */
+
+  .Customer-service {
+    margin-top: -260px;
+    height: 100%;
+  }
+
+  .Shop-and-Learn {
+    margin-left: -15px;
+  }
+
+  .Wallet {
+    margin-left: -15px;
+  }
+
+  .Account {
+    margin-left: -120px;
+  }
+
+  .Entertainment {
+    margin-left: -120px;
+  }
+
+  .Apple-Store {
+    margin-left: -150px;
+  }
+
+  .For-Business {
+    margin-left: -180px;
+  }
+
+  .For-Education {
+    margin-left: -180px;
+  }
+
+  .For-Healthcare {
+    margin-left: -180px;
+  }
+
+  .For-Government {
+    margin-left: -180px;
+  }
+
+  .Apple-Values {
+    margin-left: 740px;
+    margin-top: -475px;
+    position: static;
+  }
+
+  .About-Apple {
+    margin-left: 740px;
+    margin-top: 10px;
+    position: static;
+  }
+}
+
+  /* Desktop-sized screens */
+  @media screen and (min-width: 1099px) {
+    .Apple-Values {
+      position: static;
+      margin-left: 900px;
+    margin-top: -475px;
+    }
+
+    .About-Apple{
+      margin-left: 900px;
+    margin-top: 10px;
+    position: static;
+    }
+    }
