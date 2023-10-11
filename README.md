@@ -42,7 +42,6 @@ The styling of this webpage is achieved primarily through HTML and CSS. Specific
 - **Custom Fonts**: Integrating Apple-like fonts to enhance the overall aesthetic.
 
 - **CSS Animations**: Applying CSS animations for smooth transitions and hover effects.
-<img width="1280" alt="Apple-Webpage" src="https://github.com/Hassan-318/Apple-Clone/assets/142814682/7cbd1914-7ebc-4195-959b-63d547e654b5">
-<img width="510" alt="Apple-responsive-Webpage" src="https://github.com/Hassan-318/Apple-Clone/assets/142814682/412a3d7c-6038-4f17-<img width="1267" alt="Apple-webpage-2" src="https://github.com/Hassan-318/Apple-Clone/assets/142814682/0aee8932-c65a-41a7-82d4-f0218e874117">
-af8a-458c0fad09b9">
-<img width="510" alt="Apple-responsive-Webpage" src="https://github.com/Hassan-318/Apple-Clone/assets/142814682/b34c4423-839d-4123-b7b0-1d15e6f98bb1">
+<img width="1267" alt="Apple-webpage-2" src="https://github.com/Hassan-318/Apple-Clone/assets/142814682/e0a0ae02-be1c-4c7a-9244-590c54011517">
+<img width="1267" alt="Apple-webpage-2" src="https://github.com/Hassan-318/Apple-Clone/assets/142814682/40aa148b-78fe-4e49-9c91-88d5509493a0">
+<img width="1280" alt="Apple-Webpage" src="https://github.com/Hassan-318/Apple-Clone/assets/142814682/2607101e-fea2-4157-8a59-7082c81dbc7a">
