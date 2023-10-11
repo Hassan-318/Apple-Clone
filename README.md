@@ -45,3 +45,5 @@ The styling of this webpage is achieved primarily through HTML and CSS. Specific
 <img width="1280" alt="Apple-Webpage" src="https://github.com/Hassan-318/Apple-Clone/assets/142814682/7cbd1914-7ebc-4195-959b-63d547e654b5">
 <img width="510" alt="Apple-responsive-Webpage" src="https://github.com/Hassan-318/Apple-Clone/assets/142814682/412a3d7c-6038-4f17-<img width="1267" alt="Apple-webpage-2" src="https://github.com/Hassan-318/Apple-Clone/assets/142814682/0aee8932-c65a-41a7-82d4-f0218e874117">
 af8a-458c0fad09b9">
+<img width="1267" alt="Apple-webpage-2" src="https://github.com/Hassan-318/Apple-Clone/assets/142814682/c2317e91-b908-4980-a89e-c65a501e18ea">
+<img width="510" alt="Apple-responsive-Webpage" src="https://github.com/Hassan-318/Apple-Clone/assets/142814682/b34c4423-839d-4123-b7b0-1d15e6f98bb1">
