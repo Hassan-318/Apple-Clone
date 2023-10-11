@@ -42,3 +42,5 @@ The styling of this webpage is achieved primarily through HTML and CSS. Specific
 - **Custom Fonts**: Integrating Apple-like fonts to enhance the overall aesthetic.
 
 - **CSS Animations**: Applying CSS animations for smooth transitions and hover effects.
+<img width="1280" alt="Apple-Webpage" src="https://github.com/Hassan-318/Apple-Clone/assets/142814682/7cbd1914-7ebc-4195-959b-63d547e654b5">
+<img width="510" alt="Apple-responsive-Webpage" src="https://github.com/Hassan-318/Apple-Clone/assets/142814682/412a3d7c-6038-4f17-af8a-458c0fad09b9">
