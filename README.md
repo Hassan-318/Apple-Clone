@@ -43,5 +43,6 @@ The styling of this webpage is achieved primarily through HTML and CSS. Specific
 
 - **CSS Animations**: Applying CSS animations for smooth transitions and hover effects.
 <img width="1267" alt="Apple-webpage-2" src="https://github.com/Hassan-318/Apple-Clone/assets/142814682/e0a0ae02-be1c-4c7a-9244-590c54011517">
-<img width="1267" alt="Apple-webpage-2" src="https://github.com/Hassan-318/Apple-Clone/assets/142814682/40aa148b-78fe-4e49-9c91-88d5509493a0">
+<img width="510" alt="Apple-responsive-Webpage" src="https://github.com/Hassan-318/Apple-Clone/assets/142814682/7734f68b-e067-43f1-bbc3-e025ab0567ee">
 <img width="1280" alt="Apple-Webpage" src="https://github.com/Hassan-318/Apple-Clone/assets/142814682/2607101e-fea2-4157-8a59-7082c81dbc7a">
+
